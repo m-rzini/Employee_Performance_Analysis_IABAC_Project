@@ -1,6 +1,6 @@
  # __INX Future Inc. Employee Performance Analysis Project__
 
- <h1>Certified Data Science Final Project</h1>
+ <h2>Certified Data Science Final Project</h2>
  
   <table align="" border="1" cellpadding="8" cellspacing="0">
     <tr>
