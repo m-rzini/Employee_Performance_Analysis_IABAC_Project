@@ -1,7 +1,6 @@
-<p style="margin: 0; padding: 0; background-color: black; color: white; text-align: left; font-size: 2em; padding: 20px;">
-  Project Summary </p>
- 
  # __INX Future Inc. Employee Performance Analysis Project__
+
+ <h1>Certified Data Science Final Project</h1>
  
   <table align="" border="1" cellpadding="8" cellspacing="0">
     <tr>
